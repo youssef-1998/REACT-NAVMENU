@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/youssef-1998/REACT-NAVMENU/static/css/main.1b247a36.chunk.css",
+    "main.js": "/youssef-1998/REACT-NAVMENU/static/js/main.4f9e1baa.chunk.js",
+    "main.js.map": "/youssef-1998/REACT-NAVMENU/static/js/main.4f9e1baa.chunk.js.map",
+    "runtime-main.js": "/youssef-1998/REACT-NAVMENU/static/js/runtime-main.dcfe306b.js",
+    "runtime-main.js.map": "/youssef-1998/REACT-NAVMENU/static/js/runtime-main.dcfe306b.js.map",
+    "static/js/2.54c0e964.chunk.js": "/youssef-1998/REACT-NAVMENU/static/js/2.54c0e964.chunk.js",
+    "static/js/2.54c0e964.chunk.js.map": "/youssef-1998/REACT-NAVMENU/static/js/2.54c0e964.chunk.js.map",
+    "index.html": "/youssef-1998/REACT-NAVMENU/index.html",
+    "precache-manifest.a620cf11a7ebffc647e4092eafb877a2.js": "/youssef-1998/REACT-NAVMENU/precache-manifest.a620cf11a7ebffc647e4092eafb877a2.js",
+    "service-worker.js": "/youssef-1998/REACT-NAVMENU/service-worker.js",
+    "static/css/main.1b247a36.chunk.css.map": "/youssef-1998/REACT-NAVMENU/static/css/main.1b247a36.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dcfe306b.js",
+    "static/js/2.54c0e964.chunk.js",
+    "static/css/main.1b247a36.chunk.css",
+    "static/js/main.4f9e1baa.chunk.js"
+  ]
+}
