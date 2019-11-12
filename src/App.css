@@ -7,16 +7,35 @@ a {
   display: flex;
   font-size: 18px;
   border-bottom: 3px solid  #03a9f4 ;
-  width: fit-content;
-  
+  margin: 0px;
+  padding: 0px 40px;
+  justify-content: flex-end;
+  position: relative ;
+ 
 }
-
+.list-item{
+  padding: 15px 20px;
+}
 li{
   list-style: none;
- margin: 5px;
 }
-.lien-nav :hover{
-  color: #03a9f4;
+
+.list-subMenu{
+  border: 2px solid #03a9f4 ;
+  position: absolute;
+  width: 180px;
+  top:100%;
+  display: none;
+}
+.list-item:hover .list-subMenu{
+  display: block;
+}
+ul{
+  padding: 0px ;
+}
+.sub-menu-item:hover{
+  background: cornflowerblue;
+  color: white;
 }
 
 
